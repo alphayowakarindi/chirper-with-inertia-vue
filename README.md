@@ -1,4 +1,4 @@
-# chirp with inertia and vue
+# chirp with laravel, inertia and vue
 
 > A simple microblogging platform.
 
